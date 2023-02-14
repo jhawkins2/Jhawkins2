@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/JacobHa38331823
 [instagram]: https://www.instagram.com/Jacob_hawkins_15
-[linkedin]: www.linkedin.com/in/jacobehawkins
+[linkedin]: https://www.linkedin.com/in/jacobehawkins/
