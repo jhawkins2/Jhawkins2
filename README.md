@@ -3,6 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
+  - [Security-awareness-campaign-bullphish-project](https://github.com/Jhawkins2/Security-awareness-campaign-bullphish-project)
   - [osTicket: Prerequisites and Installation](https://github.com/Jhawkins2/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jhawkins2/osTicket-Post-install-configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jhawkins2/osTicket--Ticket-Lifecycle-Intake-Through-Resolution)
